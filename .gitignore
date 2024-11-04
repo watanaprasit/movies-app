@@ -1,0 +1,17 @@
+sftp-config.json
+
+Control.lasst-run
+Control.ca-list
+Control.ca-budnle
+Control.system-ca-bundle
+Github.sublime-settings
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+env/
+.env
